@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MyAppEx</string>
+    <string name="enText1">Введите первое число</string>
+    <string name="enText2">Введите второе число</string>
+    <string name="zero">0</string>
+
+    <string-array name="actions_name">
+        <item>+</item>
+        <item>-</item>
+        <item>*</item>
+        <item>/</item>
+    </string-array>
+</resources>
